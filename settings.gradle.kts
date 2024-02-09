@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Fcm"
 include(":app")
-include(":fcm")
